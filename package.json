@@ -1,0 +1,19 @@
+{
+  "name": "nestjs-tryout",
+  "version": "1.0.0",
+  "description": "NestJS test :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandelarge/nestjs-tryout.git"
+  },
+  "author": "denial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandelarge/nestjs-tryout/issues"
+  },
+  "homepage": "https://github.com/dandelarge/nestjs-tryout#readme"
+}
